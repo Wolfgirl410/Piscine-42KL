@@ -11,9 +11,4 @@ i=122;
 		write(1,&i,1);
 		i--;
 	}
-}
-
-int main()
-	{
-		ft_print_reverse_alphabet();
-	} 
+} 

@@ -10,7 +10,3 @@ void ft_print_numbers(void){
 		i++;
 	}
 }
-
-int main(){
-	ft_print_numbers();
-}

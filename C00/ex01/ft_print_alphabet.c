@@ -14,8 +14,3 @@ i=97;
 	}
 
 }
-
-int main(){
-ft_print_alphabet();
-}
-
